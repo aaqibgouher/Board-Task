@@ -1,0 +1,17 @@
+.square-class {
+  border: 2px solid black;
+  height: 4rem;
+  width: 4rem;
+}
+
+.black {
+  background: black;
+}
+
+.white {
+  background: white;
+}
+
+.red {
+  background: red;
+}
